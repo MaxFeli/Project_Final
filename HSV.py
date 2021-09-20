@@ -164,11 +164,3 @@ def contourAnalysis(img):
 
 # for i in range(-1, 13):
 # contourAnalysis(cv2.imread("chessboard_frame_{}.png".format(-1)))
-
-# finds chessboard. works.
-# abbassare luminosità della prima immagine per vedere meglio il blu
-
-# links
-# https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html
-# https://colab.research.google.com/drive/1ByRi9d6_Yzu0nrEKArmLMLuMaZjYfygO#scrollTo=lweWDcTyVeLs
-# https://iq.opengenus.org/connected-component-labeling/#:~:text=Connected%20Component%20Labeling%20can%20be%20applied%20using%20the,function%20is%20the%20path%20to%20the%20original%20image.

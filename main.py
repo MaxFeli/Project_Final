@@ -13,7 +13,6 @@ import HSV
 import torch
 
 
-
 points = []
 cells = {}
 mouseX, mouseY = 0, 0
